@@ -1,0 +1,10 @@
+C:\SRC\CSharp\1_RegEx_Base\1_RegEx_Base\bin\Debug\1_RegEx_Base.exe.config
+C:\SRC\CSharp\1_RegEx_Base\1_RegEx_Base\bin\Debug\1_RegEx_Base.exe
+C:\SRC\CSharp\1_RegEx_Base\1_RegEx_Base\bin\Debug\1_RegEx_Base.pdb
+C:\SRC\CSharp\1_RegEx_Base\1_RegEx_Base\obj\Debug\1_RegEx_Base.csproj.SuggestedBindingRedirects.cache
+C:\SRC\CSharp\1_RegEx_Base\1_RegEx_Base\obj\Debug\_1_RegEx_Base.Form1.resources
+C:\SRC\CSharp\1_RegEx_Base\1_RegEx_Base\obj\Debug\_1_RegEx_Base.Properties.Resources.resources
+C:\SRC\CSharp\1_RegEx_Base\1_RegEx_Base\obj\Debug\1_RegEx_Base.csproj.GenerateResource.cache
+C:\SRC\CSharp\1_RegEx_Base\1_RegEx_Base\obj\Debug\1_RegEx_Base.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\1_RegEx_Base\1_RegEx_Base\obj\Debug\1_RegEx_Base.exe
+C:\SRC\CSharp\1_RegEx_Base\1_RegEx_Base\obj\Debug\1_RegEx_Base.pdb
